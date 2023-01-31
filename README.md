@@ -16,7 +16,7 @@ and MongoDB and SQL 🗄️ for database management.
 
 I am able to effectively manage code repositories and collaborate with teams on software projects.
 
-💻 Whether it's a simple web app or a complex enterprise solution,
+Whether it's a simple web app or a complex enterprise solution,
 
 I have the experience and skills to deliver outstanding results.
 
