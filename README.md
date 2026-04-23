@@ -64,5 +64,5 @@ I'm aiming to join a strong engineering team where I can:
 
 ## 📫 Let's Connect
 
-- LinkedIn: (add your link)
+- LinkedIn:(https://www.linkedin.com/in/barorel/)
 - GitHub: you're already here 😄
