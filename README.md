@@ -1,52 +1,95 @@
-Hi, I'm Bar 👋
+# Hi, I'm Bar 👋
 
-Software Engineer with ~3 years of experience building real production systems, with a strong backend focus in C# / .NET.
+Software Engineer with ~3 years of experience building production systems, mainly focused on backend engineering with C# / .NET.
 
-I enjoy designing and building systems from scratch — from architecture decisions to production deployment — with a focus on performance, scalability, and clean design.
+I enjoy building scalable systems end-to-end — from architecture and backend design to deployment and real production usage.
 
-🚀 What I'm Working On
-🏡 Homeiy — Real Estate Platform (Production)
-Built a full-stack mobile/web application using Angular + Ionic and .NET 8
-Implemented map-based property search with real-time updates
-Designed backend using Clean Architecture, DDD, and CQRS
-Integrated AI (ChatGPT) for natural language property search
-Worked with SignalR for real-time communication (chat, updates)
-Handling geolocation, filtering, and dynamic queries in production
-🧠 Core Skills
-Backend
-C# / .NET Core / .NET 8
-Node.js
-REST APIs & distributed systems
-Entity Framework Core
-SQL Server, Redis
-SignalR, RabbitMQ
-Architecture & Design
-Clean Architecture
-Domain-Driven Design (DDD)
-CQRS
-System Design & scalability thinking
-Frontend
-Angular
-React
-TypeScript
-Ionic (mobile apps)
-Dev & Infra
-Docker
-Linux
-Basic Kubernetes concepts
-🛠️ Projects
-⚙️ Workflow Engine API
+---
 
-Dynamic workflow execution engine built in .NET 8 with conditional branching and extensible operations.
-Designed using Clean Architecture and Strategy Pattern to support flexible, data-driven execution flows.
+## 🚀 Currently Building
 
-🎯 What I'm Looking For
+### 🏡 Homeiy — Real Estate Platform
 
-I'm aiming to join a strong engineering team where I can:
+Production-ready mobile/web platform for real estate listings and discovery.
 
-Work on large-scale or high-impact systems
-Grow into a senior-level engineer
-Deepen my skills in backend, systems design, and infrastructure
-📫 Let's Connect
-LinkedIn
-GitHub: you're already here 😄
+#### Main Features
+
+* Map-based property search
+* Real-time updates with SignalR
+* AI-powered natural language search
+* Dynamic filtering & geolocation
+* Mobile-first experience with Ionic
+
+#### Tech Stack
+
+* .NET 8
+* Angular + Ionic
+* SQL Server
+* SignalR
+* Clean Architecture
+* DDD + CQRS
+
+---
+
+## 🧠 Technical Skills
+
+### Backend
+
+* C# / .NET / ASP.NET Core
+* Node.js
+* REST APIs
+* Distributed Systems
+* Entity Framework Core
+* SQL Server / Redis
+* RabbitMQ / SignalR
+
+### Frontend
+
+* Angular
+* React
+* TypeScript
+* Ionic
+
+### Architecture
+
+* Clean Architecture
+* Domain-Driven Design (DDD)
+* CQRS
+* Scalable system design
+
+### DevOps & Infra
+
+* Docker
+* Linux
+* Basic Kubernetes knowledge
+
+---
+
+## 🛠️ Additional Project
+
+### ⚙️ Workflow Engine API
+
+A dynamic workflow execution engine built with .NET 8.
+
+Features:
+
+* Conditional execution flows
+* Extensible operation system
+* Strategy Pattern implementation
+* Clean Architecture structure
+
+---
+
+## 🎯 Interests
+
+* Backend Engineering
+* Distributed Systems
+* Infrastructure & Scalability
+* System Design
+* AI-powered products
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/barorel/
