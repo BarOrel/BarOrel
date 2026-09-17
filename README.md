@@ -1,6 +1,6 @@
 # Hi, I'm Bar 👋
 
-Software Engineer with ~3 years of experience building production-grade systems, with a strong focus on backend engineering, AI integration, and scalable architecture.
+Software Engineer with 3 years of experience building production-grade systems, with a strong focus on backend engineering, AI integration, and scalable architecture.
 
 I enjoy building modern AI-powered applications end-to-end — from backend infrastructure and system design to LLM integrations and production deployment.
 
