@@ -165,21 +165,13 @@ But I still own:
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BarOrel&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarOrel&layout=compact&theme=transparent&hide_border=true" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=BarOrel&bg_color=0d1117&color=e2e8f0&line=64748b&point=f8fafc&area=true&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=BarOrel&theme=github-dark&hide_border=true&area=true" />
 
 </div>
-
----
 
 ## 📡 Quick Links
 
