@@ -1,127 +1,77 @@
 # Hi, I'm Bar 👋
 
-Software Engineer with 3 years of experience building production-grade systems, with a strong focus on backend engineering, AI integration, and scalable architecture.
+Software Engineer with 3+ years of experience building production systems, focused on **C#/.NET, backend engineering, full-stack development, and AI-native applications**.
 
-I enjoy building modern AI-powered applications end-to-end — from backend infrastructure and system design to LLM integrations and production deployment.
-
----
-
-# 🚀 What I'm Building
-
-## 🏡 Homeiy — AI-Powered Real Estate Platform
-
-Production-ready mobile/web platform combining real estate search with AI-driven user experiences.
-
-### AI & LLM Features
-
-* Integrated LLMs (ChatGPT/OpenAI) for natural language property search
-* Built AI flows that transform user prompts into structured filtering logic
-* AI-powered query interpretation for locations, budgets, rooms, and property preferences
-* Focused on creating practical AI experiences inside real production systems
-* Exploring conversational AI experiences inside the platform
-
-### Platform Features
-
-* Real-time property updates using SignalR
-* Map-based property discovery
-* Dynamic geolocation filtering
-* Mobile-first architecture
-* Real-time communication flows
-
-### Tech Stack
-
-* .NET 8
-* Angular + Ionic
-* TypeScript
-* SQL Server
-* SignalR
-* Docker
-* Clean Architecture
-* DDD + CQRS
+I enjoy building systems end-to-end — APIs, architecture, realtime features, mobile apps, infrastructure, and AI agents.
 
 ---
 
-# 🧠 Core Skills
+# 🚀 Featured Project
 
-## AI / LLM Engineering
+## 🧠 Life OS — Agentic Personal AI System
 
-* LLM integration (OpenAI / ChatGPT APIs)
-* AI-powered product development
-* Prompt engineering
-* Natural language workflows
-* AI-assisted search experiences
-* Conversational AI concepts
-* AI feature integration into production systems
+Life OS is a personal AI system built around **specialized agents, orchestration, persistent memory, and context engineering**.
 
----
+The core idea is simple:
 
-## Backend Engineering
+> **Not everything the system knows about a user is relevant to the current task.**
 
-* C# / .NET / ASP.NET Core
-* Node.js
-* REST APIs
-* Distributed systems
-* Entity Framework Core
-* SQL Server / Redis
-* RabbitMQ / SignalR
+Instead of sending all history to one LLM, Life OS decides:
 
----
-
-## Frontend
-
-* React
-* Angular
-* TypeScript
-* Ionic
-
----
-
-## Architecture & System Design
-
-* Clean Architecture
-* Domain-Driven Design (DDD)
-* CQRS
-* Scalable system design
-* Backend-oriented full-stack development
-
----
-
-## Dev & Infrastructure
-
-* Docker
-* Linux
-* Basic Kubernetes concepts
-
----
-
-# 🛠️ Additional Project
-
-## ⚙️ Workflow Engine API
-
-Dynamic workflow execution engine built with .NET 8 and designed for extensible business flows.
+- which agent should handle the task
+- what context is relevant
+- which memories should be included
+- what actions/tools are available
 
 ### Highlights
 
-* Conditional branching execution
-* Strategy Pattern architecture
-* Extensible operation pipelines
-* Clean Architecture implementation
-* Flexible data-driven workflow processing
+- Specialized AI agents and orchestration
+- Persistent memory with relevance scoring
+- Context selection based on importance, recency, usage, and task relevance
+- Background and proactive processing
+- Realtime updates with SignalR
+- iOS, desktop, and Android/robot clients
+- Developed extensively using AI coding agents with human architectural review
+
+### Stack
+
+**.NET 8 · ASP.NET Core · Angular · Ionic · Capacitor · SQL Server · EF Core · Hangfire · SignalR · Docker · Anthropic Claude**
+
+🔗 **Repository:**  
+https://github.com/BarOrel/LifeOS
 
 ---
 
-# 🎯 Areas I'm Passionate About
+# 🏡 Other Projects
 
-* AI-powered products
-* LLM applications
-* Backend & distributed systems
-* Infrastructure & scalability
-* System design
-* Real-time systems
-* AI engineering
+### Homeiy
+
+Full-stack real estate platform with AI-assisted property search, natural-language filtering, maps, geolocation, and realtime updates.
+
+**.NET 8 · Angular · Ionic · SQL Server · SignalR · Docker**
+
+### Workflow Engine API
+
+Extensible .NET workflow engine with conditional branching, strategy-based execution, and configurable business flows.
 
 ---
 
-# 📫 Connect With Me
+# 🛠️ Core Stack
 
-* LinkedIn: https://www.linkedin.com/in/barorel/
+**Backend**  
+C# · .NET · ASP.NET Core · REST APIs · EF Core · SQL Server · Redis · RabbitMQ · SignalR
+
+**Frontend / Mobile**  
+Angular · TypeScript · Ionic · Capacitor · React
+
+**AI**  
+AI Agents · Agent Orchestration · LLM Integration · Context Engineering · Memory Systems · RAG Concepts · OpenAI · Anthropic
+
+**Architecture / DevOps**  
+Clean Architecture · CQRS · DDD · Docker · Linux · CI/CD · Kubernetes Fundamentals
+
+---
+
+# 📫 Connect
+
+LinkedIn: https://www.linkedin.com/in/barorel/
