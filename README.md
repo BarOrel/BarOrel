@@ -1,111 +1,32 @@
 <div align="center">
 
-# BAR OREL
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,20:0f172a,45:1e293b,70:334155,100:7f1d1d&text=BAR%20OREL&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20AI-Native%20Systems&descSize=20&descAlignY=58&animation=fadeIn" />
 
-### Software Engineer / Backend / AI Systems
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=E2E8F0&center=true&vCenter=true&width=1000&lines=Building+systems+that+remember%2C+reason%2C+and+act;C%23+%2F+.NET+%E2%80%A2+Angular+%E2%80%A2+AI+Agents+%E2%80%A2+Realtime+Architecture;Context+Engineering+%E2%80%A2+Memory+Systems+%E2%80%A2+Distributed+Thinking;Beyond+the+walls+of+static+software" />
 
-> “Build beyond the obvious.”
+<br/>
+<br/>
 
-`C#` `/.NET` `Angular` `Agents` `Realtime` `Distributed Systems`
+<a href="https://www.linkedin.com/in/barorel/">
+  <img src="https://img.shields.io/badge/LinkedIn-Bar%20Orel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/BarOrel">
+  <img src="https://img.shields.io/badge/GitHub-BarOrel-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=BarOrel&style=for-the-badge&color=64748b" />
 
-</div>
+<br/>
+<br/>
 
----
-
-## ⚔️ About
-
-I build software that behaves more like a system than a screen.
-
-Backend services. Realtime flows. AI agents. Memory. Context. Automation.
-
-Most of my work lives somewhere between:
-
-**engineering structure**  
-and  
-**making software feel alive**
-
----
-
-## 🧠 Life OS
-
-### Personal AI system with memory, agents and orchestration.
-
-Life OS is built around one idea:
-
-> **The challenge isn’t giving an AI more information.  
-> It’s knowing what information matters right now.**
-
-The system routes tasks between specialized agents, ranks memory, builds task-specific context, and executes background actions without dumping the entire user history into every prompt.
-
-**Core ideas**
-- Agent orchestration
-- Persistent memory
-- Context relevance
-- Proactive workflows
-- Background processing
-- Multi-client architecture
-
-**Built with**
-`.NET 8` `Angular` `Ionic` `SQL Server` `SignalR` `Hangfire` `Docker` `Claude`
-
-→ [Explore Life OS](https://github.com/BarOrel/LifeOS)
-
----
-
-## 🛰️ Other Systems
-
-### Homeiy
-AI-assisted real estate platform with natural-language search, maps and realtime updates.
-
-### Workflow Engine
-Extensible .NET workflow system with dynamic branching and configurable execution.
-
----
-
-## 🛠 Stack
-
-### Backend
-`C#` `.NET` `ASP.NET Core` `EF Core` `SQL Server` `Redis` `RabbitMQ`
-
-### Frontend
-`Angular` `TypeScript` `Ionic` `Capacitor` `React`
-
-### AI
-`Agents` `Context Engineering` `Memory Systems` `LLM Integration` `RAG`
-
-### Systems
-`Docker` `CI/CD` `Linux` `Realtime` `Distributed Systems`
-
----
-
-## 🌌 Current Coordinates
-
-Exploring:
-
-`Multi-agent systems`
-
-`Memory architectures`
-
-`Semantic retrieval`
-
-`AI-native workflows`
-
-`Distributed backend systems`
-
----
-
-<div align="center">
-
-## Signal
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarOrel&show_icons=true&hide_border=true&theme=transparent)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BarOrel&hide_border=true&theme=github-dark)
-
----
-
-### “Keep moving forward.”
-
-[LinkedIn](https://www.linkedin.com/in/barorel/) · [GitHub](https://github.com/BarOrel)
+> ### “Build beyond the obvious.”
 
 </div>
+
+---
+
+# ⚔️ WHO AM I
+
+```diff
++ Software Engineer with 3+ years of experience
++ Backend-heavy full-stack developer
++ Focused on AI-native systems, architecture, and real production software
